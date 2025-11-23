@@ -1,36 +1,36 @@
 # 1️⃣ 国内突发/重大
-+突发
-+事故
-+地震
-+火灾
-+爆炸
-+坍塌
-+袭击
-+戒严
-+通缉
-+失踪
+突发
+事故
+地震
+火灾
+爆炸
+坍塌
+袭击
+戒严
+通缉
+失踪
 !演练
 !演习
 !彩排
 @15
 
-# 2️⃣ 国外硬核科技（一周以内必现）
-+突破
-+刷新
-+纪录
-+首次
-+登顶
-+SOTA
-+开源
-+论文
+# 2️⃣ 国外硬核科技
+突破
+刷新
+纪录
+首次
+登顶
+SOTA
+开源
+论文
 Nature
 Science
 ArXiv
-+GPT-4
-+Claude-3.5
-+Sora
-+Gemini-1.5
-+Llama-3
+GPT
+Claude
+Sora
+Gemini
+Llama
 !概念
 !营销
 !PPT
@@ -38,13 +38,13 @@ ArXiv
 
 # 3️⃣ GitHub 优秀项目（当天 star 飙升）
 GitHub
-+trending
-+star
-+fork
-+release
-+tag
+trending
+star
+fork
+release
+tag
 awesome-
-+README.md
+README.md
 !mirror
 !backup
 !empty
@@ -53,25 +53,24 @@ awesome-
 # 4️⃣ 股市突发（政策+行情）
 证监会
 交易所
-+停牌
-+复牌
-+涨停
-+跌停
-+暴跌
-+暴涨
-+熔断
-+降准
-+降息
-+IPO
-+减持
-+增持
-+回购
+停牌
+复牌
+涨停
+跌停
+暴跌
+暴涨
+熔断
+降准
+降息
+IPO
+减持
+增持
+回购
 !广告
 !课程
 @15
 
 # 5️⃣ AI 前沿（模型/芯片/应用）
-# AI 技术突发-宽松模板  v1
 人工智能
 AI
 ChatGPT
